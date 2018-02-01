@@ -151,6 +151,6 @@ public class BasicApplication extends ControllerApplication {
 }
 ```
 
-For more information about Controllers please see [Controller](controller.html) section.
+For more information about Controllers please see [Controller](/mod/controller.html) section.
  
 For a detailed overview please see section [Under the hood](/dev/under-the-hood.html).
